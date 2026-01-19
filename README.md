@@ -1,4 +1,4 @@
 # Code-the-Classics
 Assets from the book, Code the Classics
 
-https://magpi.raspberrypi.com/books/code-the-classics1
+https://magazine.raspberrypi.com/books/code-the-classics-vol-I-2ed
